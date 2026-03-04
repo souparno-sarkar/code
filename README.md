@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/souparno-sarkar/code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/souparno-sarkar/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/souparno-sarkar/code/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/souparno-sarkar/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-sarkar/code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/souparno-sarkar/code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/souparno-sarkar/code/tree/master/3713-longest-balanced-substring-i) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/souparno-sarkar/code/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/souparno-sarkar/code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
