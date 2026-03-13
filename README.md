@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/souparno-sarkar/code/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/souparno-sarkar/code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/souparno-sarkar/code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
