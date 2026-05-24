@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/souparno-sarkar/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
 | [0796-rotate-string](https://github.com/souparno-sarkar/code/tree/master/0796-rotate-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-sarkar/code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/souparno-sarkar/code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/souparno-sarkar/code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/souparno-sarkar/code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [1306-jump-game-iii](https://github.com/souparno-sarkar/code/tree/master/1306-jump-game-iii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/souparno-sarkar/code/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/souparno-sarkar/code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Sliding Window
 |  |
@@ -151,4 +154,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
