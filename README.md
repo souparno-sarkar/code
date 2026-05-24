@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/souparno-sarkar/code/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/souparno-sarkar/code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/souparno-sarkar/code/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/souparno-sarkar/code/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/souparno-sarkar/code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/souparno-sarkar/code/tree/master/0084-largest-rectangle-in-histogram) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/souparno-sarkar/code/tree/master/0055-jump-game) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/souparno-sarkar/code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/souparno-sarkar/code/tree/master/0055-jump-game) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/souparno-sarkar/code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Stack
 |  |
