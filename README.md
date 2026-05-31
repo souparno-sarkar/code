@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/souparno-sarkar/code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/souparno-sarkar/code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/souparno-sarkar/code/tree/master/2352-equal-row-and-column-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3713-longest-balanced-substring-i](https://github.com/souparno-sarkar/code/tree/master/3713-longest-balanced-substring-i) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/souparno-sarkar/code/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/souparno-sarkar/code/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/souparno-sarkar/code/tree/master/2352-equal-row-and-column-pairs) |
 | [2381-shifting-letters-ii](https://github.com/souparno-sarkar/code/tree/master/2381-shifting-letters-ii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/souparno-sarkar/code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-sarkar/code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2352-equal-row-and-column-pairs](https://github.com/souparno-sarkar/code/tree/master/2352-equal-row-and-column-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/souparno-sarkar/code/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/souparno-sarkar/code/tree/master/2352-equal-row-and-column-pairs) |
 ## Sliding Window
 |  |
 | ------- |
