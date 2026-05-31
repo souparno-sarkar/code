@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/souparno-sarkar/code/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3713-longest-balanced-substring-i](https://github.com/souparno-sarkar/code/tree/master/3713-longest-balanced-substring-i) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/souparno-sarkar/code/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/souparno-sarkar/code/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/souparno-sarkar/code/tree/master/1991-find-the-middle-index-in-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2381-shifting-letters-ii](https://github.com/souparno-sarkar/code/tree/master/2381-shifting-letters-ii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/souparno-sarkar/code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
