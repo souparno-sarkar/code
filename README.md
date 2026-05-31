@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/souparno-sarkar/code/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/souparno-sarkar/code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/souparno-sarkar/code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/souparno-sarkar/code/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/souparno-sarkar/code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-sarkar/code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/souparno-sarkar/code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/souparno-sarkar/code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2381-shifting-letters-ii](https://github.com/souparno-sarkar/code/tree/master/2381-shifting-letters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/souparno-sarkar/code/tree/master/3713-longest-balanced-substring-i) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
+| [1657-determine-if-two-strings-are-close](https://github.com/souparno-sarkar/code/tree/master/1657-determine-if-two-strings-are-close) |
 | [3713-longest-balanced-substring-i](https://github.com/souparno-sarkar/code/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
+| [1657-determine-if-two-strings-are-close](https://github.com/souparno-sarkar/code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/souparno-sarkar/code/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
