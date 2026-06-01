@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/souparno-sarkar/code/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/souparno-sarkar/code/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/souparno-sarkar/code/tree/master/1991-find-the-middle-index-in-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/souparno-sarkar/code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/souparno-sarkar/code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/souparno-sarkar/code/tree/master/2352-equal-row-and-column-pairs) |
 | [2381-shifting-letters-ii](https://github.com/souparno-sarkar/code/tree/master/2381-shifting-letters-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/souparno-sarkar/code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/souparno-sarkar/code/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/souparno-sarkar/code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/souparno-sarkar/code/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/souparno-sarkar/code/tree/master/0334-increasing-triplet-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/souparno-sarkar/code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/souparno-sarkar/code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
