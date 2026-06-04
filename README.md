@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/souparno-sarkar/code/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/souparno-sarkar/code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/souparno-sarkar/code/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/souparno-sarkar/code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/souparno-sarkar/code/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/souparno-sarkar/code/tree/master/0392-is-subsequence) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/souparno-sarkar/code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/souparno-sarkar/code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
