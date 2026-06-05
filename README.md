@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/souparno-sarkar/code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/souparno-sarkar/code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/souparno-sarkar/code/tree/master/0392-is-subsequence) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/souparno-sarkar/code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/souparno-sarkar/code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/souparno-sarkar/code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
