@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/souparno-sarkar/code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2381-shifting-letters-ii](https://github.com/souparno-sarkar/code/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/souparno-sarkar/code/tree/master/2390-removing-stars-from-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/souparno-sarkar/code/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/souparno-sarkar/code/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-sarkar/code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/souparno-sarkar/code/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/souparno-sarkar/code/tree/master/2390-removing-stars-from-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/souparno-sarkar/code/tree/master/3612-process-string-with-special-operations-i) |
 ## Matrix
 |  |
 | ------- |
