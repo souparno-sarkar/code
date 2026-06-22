@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/souparno-sarkar/code/tree/master/0101-symmetric-tree) |
 | [1306-jump-game-iii](https://github.com/souparno-sarkar/code/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/souparno-sarkar/code/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/souparno-sarkar/code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/souparno-sarkar/code/tree/master/0101-symmetric-tree) |
 | [1306-jump-game-iii](https://github.com/souparno-sarkar/code/tree/master/1306-jump-game-iii) |
 ## Linked List
 |  |
@@ -238,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/souparno-sarkar/code/tree/master/0101-symmetric-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/souparno-sarkar/code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/souparno-sarkar/code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/souparno-sarkar/code/tree/master/0101-symmetric-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/souparno-sarkar/code/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Segment Tree
 |  |
