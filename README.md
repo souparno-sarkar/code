@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/souparno-sarkar/code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/souparno-sarkar/code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/souparno-sarkar/code/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/souparno-sarkar/code/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/souparno-sarkar/code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/souparno-sarkar/code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/souparno-sarkar/code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/souparno-sarkar/code/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/souparno-sarkar/code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/souparno-sarkar/code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/souparno-sarkar/code/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/souparno-sarkar/code/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Recursion
 |  |
 | ------- |
