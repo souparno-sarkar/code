@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/souparno-sarkar/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/souparno-sarkar/code/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/souparno-sarkar/code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/souparno-sarkar/code/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/souparno-sarkar/code/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-sarkar/code/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/souparno-sarkar/code/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/souparno-sarkar/code/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/souparno-sarkar/code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/souparno-sarkar/code/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-sarkar/code/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/souparno-sarkar/code/tree/master/1306-jump-game-iii) |
 ## Linked List
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/souparno-sarkar/code/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-sarkar/code/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/souparno-sarkar/code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/souparno-sarkar/code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/souparno-sarkar/code/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-sarkar/code/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/souparno-sarkar/code/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Segment Tree
 |  |
