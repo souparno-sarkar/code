@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/souparno-sarkar/code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
+| [0307-range-sum-query-mutable](https://github.com/souparno-sarkar/code/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/souparno-sarkar/code/tree/master/0334-increasing-triplet-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/souparno-sarkar/code/tree/master/0724-find-pivot-index) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/souparno-sarkar/code/tree/master/0023-merge-k-sorted-lists) |
+| [0307-range-sum-query-mutable](https://github.com/souparno-sarkar/code/tree/master/0307-range-sum-query-mutable) |
 ## Merge Sort
 |  |
 | ------- |
@@ -271,5 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/souparno-sarkar/code/tree/master/0307-range-sum-query-mutable) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/souparno-sarkar/code/tree/master/3691-maximum-total-subarray-value-ii) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/souparno-sarkar/code/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/souparno-sarkar/code/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
