@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/souparno-sarkar/code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/souparno-sarkar/code/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/souparno-sarkar/code/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/souparno-sarkar/code/tree/master/0334-increasing-triplet-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/souparno-sarkar/code/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/souparno-sarkar/code/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/souparno-sarkar/code/tree/master/1732-find-the-highest-altitude) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/souparno-sarkar/code/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/souparno-sarkar/code/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
