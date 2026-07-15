@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-sarkar/code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/souparno-sarkar/code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/souparno-sarkar/code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/souparno-sarkar/code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2381-shifting-letters-ii](https://github.com/souparno-sarkar/code/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/souparno-sarkar/code/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/souparno-sarkar/code/tree/master/3612-process-string-with-special-operations-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/souparno-sarkar/code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3713-longest-balanced-substring-i](https://github.com/souparno-sarkar/code/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/souparno-sarkar/code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/souparno-sarkar/code/tree/master/0334-increasing-triplet-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/souparno-sarkar/code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/souparno-sarkar/code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/souparno-sarkar/code/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/souparno-sarkar/code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/souparno-sarkar/code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
