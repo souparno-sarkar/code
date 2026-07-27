@@ -10,7 +10,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/souparno-sarkar/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/souparno-sarkar/code/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/souparno-sarkar/code/tree/master/0229-majority-element-ii) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/souparno-sarkar/code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/souparno-sarkar/code/tree/master/1207-unique-number-of-occurrences) |
@@ -31,7 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
 | [0392-is-subsequence](https://github.com/souparno-sarkar/code/tree/master/0392-is-subsequence) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/souparno-sarkar/code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/souparno-sarkar/code/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/souparno-sarkar/code/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/souparno-sarkar/code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -72,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/souparno-sarkar/code/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/souparno-sarkar/code/tree/master/0334-increasing-triplet-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/souparno-sarkar/code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/souparno-sarkar/code/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/souparno-sarkar/code/tree/master/1207-unique-number-of-occurrences) |
 | [1306-jump-game-iii](https://github.com/souparno-sarkar/code/tree/master/1306-jump-game-iii) |
@@ -166,7 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/souparno-sarkar/code/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/souparno-sarkar/code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/souparno-sarkar/code/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/souparno-sarkar/code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
