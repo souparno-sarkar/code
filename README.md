@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/souparno-sarkar/code/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/souparno-sarkar/code/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/souparno-sarkar/code/tree/master/0334-increasing-triplet-subsequence) |
+| [0486-predict-the-winner](https://github.com/souparno-sarkar/code/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/souparno-sarkar/code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/souparno-sarkar/code/tree/master/0724-find-pivot-index) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/souparno-sarkar/code/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/souparno-sarkar/code/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/souparno-sarkar/code/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/souparno-sarkar/code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/souparno-sarkar/code/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/souparno-sarkar/code/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-sarkar/code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/souparno-sarkar/code/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/souparno-sarkar/code/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/souparno-sarkar/code/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/souparno-sarkar/code/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/souparno-sarkar/code/tree/master/0647-palindromic-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/souparno-sarkar/code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/souparno-sarkar/code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/souparno-sarkar/code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/souparno-sarkar/code/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
