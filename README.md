@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/souparno-sarkar/code/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/souparno-sarkar/code/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3310-remove-methods-from-project](https://github.com/souparno-sarkar/code/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/souparno-sarkar/code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Union-Find
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/souparno-sarkar/code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/souparno-sarkar/code/tree/master/1306-jump-game-iii) |
+| [3310-remove-methods-from-project](https://github.com/souparno-sarkar/code/tree/master/3310-remove-methods-from-project) |
 ## Linked List
 |  |
 | ------- |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/souparno-sarkar/code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/souparno-sarkar/code/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/souparno-sarkar/code/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
