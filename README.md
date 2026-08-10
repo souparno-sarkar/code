@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/souparno-sarkar/code/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/souparno-sarkar/code/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/souparno-sarkar/code/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/souparno-sarkar/code/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/souparno-sarkar/code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/souparno-sarkar/code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/souparno-sarkar/code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/souparno-sarkar/code/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/souparno-sarkar/code/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/souparno-sarkar/code/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/souparno-sarkar/code/tree/master/1510-stone-game-iv) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/souparno-sarkar/code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/souparno-sarkar/code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/souparno-sarkar/code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -334,8 +336,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/souparno-sarkar/code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/souparno-sarkar/code/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/souparno-sarkar/code/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/souparno-sarkar/code/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/souparno-sarkar/code/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/souparno-sarkar/code/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/souparno-sarkar/code/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/souparno-sarkar/code/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
