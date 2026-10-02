@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/souparno-sarkar/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/souparno-sarkar/code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/souparno-sarkar/code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/souparno-sarkar/code/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/souparno-sarkar/code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/souparno-sarkar/code/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/souparno-sarkar/code/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/souparno-sarkar/code/tree/master/0392-is-subsequence) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/souparno-sarkar/code/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/souparno-sarkar/code/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/souparno-sarkar/code/tree/master/0212-word-search-ii) |
 ## Trie
@@ -372,5 +375,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/souparno-sarkar/code/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/souparno-sarkar/code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
